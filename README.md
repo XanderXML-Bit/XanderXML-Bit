@@ -1,6 +1,6 @@
 # Xander M. Lopez
 
-IT Specialist (AI) at the U.S. Department of the Treasury. Founder & Technical Lead, Zendren LLC.
+AI Software Engineer at the U.S. Department of the Treasury. Founder & Technical Lead, Zendren LLC.
 
 [Personal site](https://xandermlopez.com) · [Zendren](https://zendren.net) · [LinkedIn](https://www.linkedin.com/in/xander-lopez)
 
